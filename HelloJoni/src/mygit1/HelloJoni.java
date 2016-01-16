@@ -10,7 +10,7 @@ public class HelloJoni {
 	private String name = "Joni";
 	
 	public void sayHelloWorld(){
-		System.out.println("Hello World to " + this.name + "!!");
+		System.out.println("Hello World to " + this.name + "!!!");
 	}
 	/**
 	 * @param args
